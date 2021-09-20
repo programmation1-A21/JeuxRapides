@@ -1,0 +1,16 @@
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\bin\Debug\net5.0\JeuxRapides.exe
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\bin\Debug\net5.0\JeuxRapides.deps.json
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\bin\Debug\net5.0\JeuxRapides.runtimeconfig.json
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\bin\Debug\net5.0\JeuxRapides.runtimeconfig.dev.json
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\bin\Debug\net5.0\JeuxRapides.dll
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\bin\Debug\net5.0\ref\JeuxRapides.dll
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\bin\Debug\net5.0\JeuxRapides.pdb
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\obj\Debug\net5.0\JeuxRapides.csproj.AssemblyReference.cache
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\obj\Debug\net5.0\JeuxRapides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\obj\Debug\net5.0\JeuxRapides.AssemblyInfoInputs.cache
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\obj\Debug\net5.0\JeuxRapides.AssemblyInfo.cs
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\obj\Debug\net5.0\JeuxRapides.csproj.CoreCompileInputs.cache
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\obj\Debug\net5.0\JeuxRapides.dll
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\obj\Debug\net5.0\ref\JeuxRapides.dll
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\obj\Debug\net5.0\JeuxRapides.pdb
+C:\Users\ccroteau\Documents\A21\Programmation1\JeuxRapides\obj\Debug\net5.0\JeuxRapides.genruntimeconfig.cache
